@@ -2,7 +2,7 @@
 
 The system is built on top of the baseline provided by the organizers https://github.com/amzn/multiconer-baseline.
 
-This repository contains implementations for the two systems we present in our system description paper LINK HERE.
+This repository contains implementations for the two systems we present in our system description paper https://aclanthology.org/2022.semeval-1.202/.
 
 
 
