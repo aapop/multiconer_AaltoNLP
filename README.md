@@ -9,12 +9,13 @@ This repository contains implementations for the two systems we present in our s
 
 Our system proposes to ensemble strategies using multilingual transformer models:
 1. Naive ensemble
-![](figures/naive_ensemble.png?raw=true)
 2. End-to-end ensemble
+
+#### Naive ensemble
+![](figures/naive_ensemble.png?raw=true)
+
+#### E2E ensemble
 ![](figures/e2e_ensemble.png?raw=true)
-
-
-
 
 ### Setting up the code environment
 
