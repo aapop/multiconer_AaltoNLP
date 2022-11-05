@@ -1,8 +1,18 @@
 # AaltoNLP system at SemEval 2022 Task 11: MultiCoNER
 
+This repository presents solution of AaltoNLP (Aapo Pietiläinen & Shaoxiong Ji) for SemEval 2022 Task 11: MultiCoNER. The task is about complex Named Entity Recognition in multilingual context.
+
 The system is built on top of the baseline provided by the organizers https://github.com/amzn/multiconer-baseline.
 
 This repository contains implementations for the two systems we present in our system description paper https://aclanthology.org/2022.semeval-1.202/.
+
+
+Our system proposes to ensemble strategies using multilingual transformer models:
+1. Naive ensemble
+![](figures/naive_ensemble.png?raw=true)
+2. End-to-end ensemble
+![](figures/e2e_ensemble.png?raw=true)
+
 
 
 
